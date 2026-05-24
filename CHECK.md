@@ -30,4 +30,4 @@
 
 #### Video
 * I Built Karpathy’s LLM Wiki in Obsidian
-    * https://www.youtube.com/watch?v=bgXEDymiZCc&list=WL&index=4
+    * https://www.youtube.com/watch?v=bgXEDymiZCc
