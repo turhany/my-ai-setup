@@ -5,7 +5,7 @@
 * https://github.com/Lum1104/Understand-Anything
 * https://github.com/JuliusBrussee/caveman
 * https://github.com/MemPalace/mempalace
-
+* https://github.com/multica-ai/andrej-karpathy-skills/blob/main/CLAUDE.md
 
 #### Resources
 * https://opencode.ai/
