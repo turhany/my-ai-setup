@@ -10,3 +10,7 @@
 * https://github.com/mksglu/context-mode
 * https://github.com/rtk-ai/rtk
 * https://github.com/dotnet/skills
+
+
+# IDE/Extensions
+* https://github.com/phuryn/claude-usage
