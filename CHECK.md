@@ -19,7 +19,8 @@
 * https://www.skills.sh/
 * https://mcpservers.org/tr/
 * https://mcpmarket.com/
-* https://paperclip.ing/ 
+* https://paperclip.ing/
+* https://github.com/daronyondem/claude-architect-exam-guide
 
 
 ####  Other Good Models (Order by Quality)
