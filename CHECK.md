@@ -21,13 +21,14 @@
 * https://mcpmarket.com/
 * https://paperclip.ing/
 * https://github.com/daronyondem/claude-architect-exam-guide
+* https://token-costs.standardagents.a,
 
 
 ####  Other Good Models (Order by Quality)
-* GLM 5.1
-* Minimax 2.7
-* Qwen 3.6
-* Kimi 2.5 (has new release)
+* GLM 
+* Minimax 
+* Qwen 
+* Kimi 
 
 #### Video
 * I Built Karpathy’s LLM Wiki in Obsidian
