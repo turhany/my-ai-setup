@@ -6,6 +6,8 @@
 * https://github.com/JuliusBrussee/caveman
 * https://github.com/MemPalace/mempalace
 * https://github.com/multica-ai/andrej-karpathy-skills/blob/main/CLAUDE.md
+* https://understand-anything.com/
+* https://github.com/elementalsouls/Claude-BugHunter  
 
 #### Resources
 * https://opencode.ai/
