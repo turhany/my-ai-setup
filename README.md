@@ -11,6 +11,7 @@
 * https://github.com/rtk-ai/rtk
 * https://github.com/dotnet/skills
 
-
-# IDE/Extensions
-* https://github.com/phuryn/claude-usage
+# Tools/IDE/Extensions
+* https://code.visualstudio.com/
+* https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code  
+* https://www.warp.dev/ (Terminal Mode) 
