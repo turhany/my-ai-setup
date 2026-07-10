@@ -12,7 +12,6 @@
 #### Resources
 * https://opencode.ai/
 * https://openrouter.ai/
-* https://www.warp.dev/
 * https://arena.ai/
 * https://trustmrr.com/
 * https://supabase.com/
