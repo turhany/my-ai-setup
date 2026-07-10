@@ -17,12 +17,7 @@
 * https://supabase.com/
 * https://vercel.com/
 * https://stripe.com/
-* https://www.skills.sh/
-* https://mcpservers.org/tr/
-* https://mcpmarket.com/
-* https://paperclip.ing/
 * https://github.com/daronyondem/claude-architect-exam-guide
-* https://token-costs.standardagents.a,
 
 
 ####  Other Good Models (Order by Quality)

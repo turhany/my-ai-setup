@@ -15,3 +15,8 @@
 * https://code.visualstudio.com/
 * https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code  
 * https://www.warp.dev/ (Terminal Mode) 
+
+# General Resources
+* https://www.skills.sh/
+* https://mcpservers.org/tr/
+* https://mcpmarket.com/
