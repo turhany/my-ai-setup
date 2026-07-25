@@ -13,8 +13,9 @@
 
 # Tools/IDE/Extensions
 * https://code.visualstudio.com/
-* https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code  
+    * https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code  
 * https://www.warp.dev/ (Terminal Mode) 
+* https://www.gitkraken.com/kepler (ADE)
 
 # Skill/MCP Resources
 * https://www.skills.sh/
