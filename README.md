@@ -1,7 +1,9 @@
 # AI Ochestrator
-* Claude / Claude Code
+* Claude / Claude Code (Main AI Companion)
     * https://claude.com/download 
     * https://claude.com/product/claude-code
+* Codex (Backup/Review/For other small tasks)
+    * https://openai.com/codex
 
 # Plugin/Tool/Skills
 * https://github.com/sirmalloc/ccstatusline
