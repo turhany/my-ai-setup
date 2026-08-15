@@ -12,6 +12,7 @@
 * https://github.com/mksglu/context-mode
 * https://github.com/rtk-ai/rtk
 * https://github.com/dotnet/skills
+* https://github.com/openai/codex-plugin-cc
 
 # Tools/IDE/Extensions
 * https://code.visualstudio.com/
