@@ -5,7 +5,7 @@
 * Codex (Backup/Review/For other small tasks)
     * https://openai.com/codex
 
-# Plugin/Tool/Skills
+# Plugin/Tool/Skills (Claude Code)
 * https://github.com/sirmalloc/ccstatusline
 * https://github.com/obra/superpowers
 * https://github.com/upstash/context7
@@ -13,6 +13,12 @@
 * https://github.com/rtk-ai/rtk
 * https://github.com/dotnet/skills
 * https://github.com/openai/codex-plugin-cc
+
+# Plugin/Tool/Skills (Codex App)
+* https://github.com/obra/superpowers
+* https://github.com/upstash/context7
+* https://github.com/dotnet/skills
+* https://github.com/rtk-ai/rtk 
 
 # Tools/IDE/Extensions
 * https://code.visualstudio.com/
